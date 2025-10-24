@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohammad-Hameedat&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -11,16 +9,13 @@
 
 ---
 
-## 💡 About Me
+## Nowadays:
 
-- 🔭 I'm currently working on some game development projects using Unity and FiveM.
-- 🌱 I'm constantly learning and growing my skill set in different programming languages and frameworks.
-- 💼 Open to new opportunities and collaborations in game development and software engineering.
-- 💡 I believe in writing clean, maintainable code and following best practices.
+- I'm currently working on a FiveM project.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -79,7 +74,7 @@
 
 <div align="center">
 
-### 🎮 SinoriaQ
+### 🎮 SinoryaQ
 **Unity Game Development**
 
 A captivating Unity-based game project showcasing advanced game mechanics, immersive gameplay, and polished game design.
@@ -139,8 +134,7 @@ Custom-built FiveM server plugin enhancing multiplayer gameplay with unique feat
 <br>
 
 - Resource Development
-- Server-Side Scripting (C# + Lua)
-- Client-Side Development (C#)
+- Server-Side & Client-Side Scripting (C# + Lua)
 - Database Integration (MySQL, JSON)
 - ESX Framework
 - QBCore Framework
@@ -152,7 +146,7 @@ Custom-built FiveM server plugin enhancing multiplayer gameplay with unique feat
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 <div align="center">
 
