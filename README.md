@@ -46,20 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hameedat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hameedat&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Hameedat&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
